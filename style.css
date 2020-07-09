@@ -1,8 +1,12 @@
+html {
+    scroll-behavior: smooth;
+}
 body {
     font-family: "Poppins", sans-serif;
     font-size: 16px;
     font-weight: 300;
     color: #6c6b6b;
+    behavior: sm;
 }
 img {
     max-width: 100%;
